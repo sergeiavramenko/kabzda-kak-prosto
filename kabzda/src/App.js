@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Header from './Header';
 import Technologies from './Technologies';
+import Footer from './Footer';
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
       <div>
 <Header />
 <Technologies />
+<Footer />
 
       </div>
    
